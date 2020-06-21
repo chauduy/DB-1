@@ -1,0 +1,22 @@
+-----cd----- (5)
+sldk = 0
+----ccs---- (5)
+sldk = 0
+copy ndcs
+----dh---- (5)
+sldk random
+
+------dd(chưa diễn ra)-----
+ThoiGianBD < datetime.now (10)
+
+-----dd(đang diễn ra)-------
+ThoiGianBD < datetime.now< ThoiGianKT (10)
+
+-----dd(đã kết thúc)---------
+datetime.now > ThoiGianKT (10)
+Background 
+sldk = giới hạn tham gia
+
+ThoiGianT trước hết tất cả
+ThoiGiand sau ThoiGianT , trước hết tất cả
+ 
